@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mattkerlogue/mattkerlogue.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "govukhugo"]
+	path = govukhugo
+	url = https://github.com/co-analysis/govukhugo-r
+	shallow = true
+	registered = true
+[submodule "deckhand"]
+	path = deckhand
+	url = https://github.com/co-analysis/deckhand
+	shallow = true
+	registered = true
+[submodule "deckhand2"]
+	path = deckhand2
+	url = https://github.com/mattkerlogue/deckhand2
+	shallow = true
+	registered = true
+[submodule "tidyods"]
+	path = tidyods
+	url = https://github.com/mattkerlogue/tidyods
+	shallow = true
+	registered = true
