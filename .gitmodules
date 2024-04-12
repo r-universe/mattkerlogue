@@ -11,6 +11,9 @@
 [submodule "govukhugo"]
 	path = govukhugo
 	url = https://github.com/co-analysis/govukhugo-r
+[submodule "shrthnd"]
+	path = shrthnd
+	url = https://github.com/mattkerlogue/shrthnd
 [submodule "tidyods"]
 	path = tidyods
 	url = https://github.com/mattkerlogue/tidyods
