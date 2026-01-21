@@ -5,12 +5,12 @@
 [submodule "deckhand"]
 	path = deckhand
 	url = https://github.com/co-analysis/deckhand
-[submodule "deckhand2"]
-	path = deckhand2
-	url = https://github.com/mattkerlogue/deckhand2
 [submodule "govukhugo"]
 	path = govukhugo
 	url = https://github.com/co-analysis/govukhugo-r
+[submodule "inlinesvg"]
+	path = inlinesvg
+	url = https://github.com/mattkerlogue/inlinesvg
 [submodule "shrthnd"]
 	path = shrthnd
 	url = https://github.com/mattkerlogue/shrthnd
